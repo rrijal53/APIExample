@@ -1,7 +1,7 @@
 # APIExample
 
 To add contact
-localhost/contact.php?action=add&username=roshan&c_fname=roshan&c_lname=rijal&n_mobile=9843096958&n_home=&n_office=
+localhost/contact.php?action=add&username=roshan&c_fname=roshan&c_lname=rijal&n_mobile=9849316389&n_home=&n_office=1234
 note:username is used for the person who adds the contact
 
 To delete contact 
