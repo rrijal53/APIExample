@@ -1,5 +1,5 @@
 <?php
-	$con=mysqli_connect("localhost","root","rrijal53", "contacts") or die('{"res":"Database Error1"}');
+	$con=mysqli_connect("localhost","root","", "contacts") or die('{"res":"Database Error1"}');
 
 	// $mydb=mysqlii_select_db("contacts") or die('{"res":"Database Error2"}');
 	// echo "string";
