@@ -25,7 +25,7 @@ localhost/contact.php?action=edit&id=26&username=roshan&c_fname=roshan&c_lname=r
 
 To search Contact
 
-localhost/contact.php?action=search&q=vivek
+localhost/contact.php?action=search&q=roshan
 
 To view specific username's contact list
 
